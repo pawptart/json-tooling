@@ -1,0 +1,250 @@
+{
+  "plan": {
+    "id": 5428455,
+    "age_group": 1,
+    "auto_renew": true,
+    "created_at": "2019-02-01T13:50:26Z",
+    "sort_order": 10,
+    "code": "10001",
+    "updated_at": "2019-12-22T18:42:49Z",
+    "long_description": "<b>The Puppy Wellness Plan Includes:</b><div><ul><li>3 Complete Physical Exams</li><li>Core Vaccination Series as Recommended by Your Veterinarian - Includes 5-in-1 (DAP/Parvo), Lepto 4, Bordetella and Rabies</li><li>2 Fecal Tests</li><li>2 Deworming Treatments - Roundworms and Hookworms</li><li>Microchip I.D. and Registration</li></ul><div><br></div></div><div><br></div>",
+    "paid_in_full_discount": 0,
+    "payment_term": 12,
+    "full_plan_price": 263.4,
+    "plan_services": [
+      {
+        "id": 5428863,
+        "offered_service": {
+          "id": 5428849,
+          "short_description": "Rabies Vaccine"
+        },
+        "plan": {
+          "id": 5428455,
+          "short_description": "Puppy Wellness Plan"
+        },
+        "cost": null,
+        "created_at": "2019-02-01T16:57:44Z",
+        "discount_percent": 50,
+        "discounted_price": 9.5,
+        "sort_order": 50,
+        "code": null,
+        "updated_at": "2019-12-22T18:42:49Z",
+        "plan_id": 5428455,
+        "plan_quantity": 1,
+        "price": 19,
+        "revenue_per_unit": 11.45,
+        "is_optional": false
+      },
+      {
+        "id": 5428864,
+        "offered_service": {
+          "id": 5428804,
+          "short_description": "Fecal Test"
+        },
+        "plan": {
+          "id": 5428455,
+          "short_description": "Puppy Wellness Plan"
+        },
+        "cost": null,
+        "created_at": "2019-02-01T16:57:50Z",
+        "discount_percent": 50,
+        "discounted_price": 14.5,
+        "sort_order": 60,
+        "code": null,
+        "updated_at": "2019-12-22T18:42:49Z",
+        "plan_id": 5428455,
+        "plan_quantity": 2,
+        "price": 29,
+        "revenue_per_unit": 17.48,
+        "is_optional": false
+      },
+      {
+        "id": 5428866,
+        "offered_service": {
+          "id": 5428807,
+          "short_description": "Deworming Treatment"
+        },
+        "plan": {
+          "id": 5428455,
+          "short_description": "Puppy Wellness Plan"
+        },
+        "cost": null,
+        "created_at": "2019-02-01T16:57:56Z",
+        "discount_percent": 50,
+        "discounted_price": 9.5,
+        "sort_order": 70,
+        "code": null,
+        "updated_at": "2019-12-22T18:42:49Z",
+        "plan_id": 5428455,
+        "plan_quantity": 2,
+        "price": 19,
+        "revenue_per_unit": 11.45,
+        "is_optional": false
+      },
+      {
+        "id": 5428860,
+        "offered_service": {
+          "id": 5428845,
+          "short_description": "Lepto 4 Vaccine"
+        },
+        "plan": {
+          "id": 5428455,
+          "short_description": "Puppy Wellness Plan"
+        },
+        "cost": null,
+        "created_at": "2019-02-01T16:57:28Z",
+        "discount_percent": 50,
+        "discounted_price": 16.5,
+        "sort_order": 30,
+        "code": null,
+        "updated_at": "2019-12-22T18:42:49Z",
+        "plan_id": 5428455,
+        "plan_quantity": 2,
+        "price": 33,
+        "revenue_per_unit": 19.89,
+        "is_optional": false
+      },
+      {
+        "id": 5428870,
+        "offered_service": {
+          "id": 5428812,
+          "short_description": "Microchip & Registration"
+        },
+        "plan": {
+          "id": 5428455,
+          "short_description": "Puppy Wellness Plan"
+        },
+        "cost": null,
+        "created_at": "2019-02-01T16:58:02Z",
+        "discount_percent": 50,
+        "discounted_price": 9.5,
+        "sort_order": 80,
+        "code": null,
+        "updated_at": "2019-12-22T18:42:49Z",
+        "plan_id": 5428455,
+        "plan_quantity": 1,
+        "price": 19,
+        "revenue_per_unit": 11.45,
+        "is_optional": false
+      },
+      {
+        "id": 5428456,
+        "offered_service": {
+          "id": 5426801,
+          "short_description": "Adjustment"
+        },
+        "plan": {
+          "id": 5428455,
+          "short_description": "Puppy Wellness Plan"
+        },
+        "cost": null,
+        "created_at": "2019-02-01T13:50:26Z",
+        "discount_percent": null,
+        "discounted_price": 44.9,
+        "sort_order": 999,
+        "code": null,
+        "updated_at": "2019-12-22T18:42:49Z",
+        "plan_id": 5428455,
+        "plan_quantity": 1,
+        "price": 0,
+        "revenue_per_unit": 0,
+        "is_optional": false
+      },
+      {
+        "id": 5428856,
+        "offered_service": {
+          "id": 5428799,
+          "short_description": "Wellness Examination"
+        },
+        "plan": {
+          "id": 5428455,
+          "short_description": "Puppy Wellness Plan"
+        },
+        "cost": null,
+        "created_at": "2019-02-01T16:56:55Z",
+        "discount_percent": 50,
+        "discounted_price": 17.5,
+        "sort_order": 10,
+        "code": null,
+        "updated_at": "2019-12-22T18:42:49Z",
+        "plan_id": 5428455,
+        "plan_quantity": 3,
+        "price": 35,
+        "revenue_per_unit": 21.1,
+        "is_optional": false
+      },
+      {
+        "id": 5428862,
+        "offered_service": {
+          "id": 5428846,
+          "short_description": "Bordetella  Vaccine"
+        },
+        "plan": {
+          "id": 5428455,
+          "short_description": "Puppy Wellness Plan"
+        },
+        "cost": null,
+        "created_at": "2019-02-01T16:57:37Z",
+        "discount_percent": 50,
+        "discounted_price": 16.5,
+        "sort_order": 40,
+        "code": null,
+        "updated_at": "2019-12-22T18:42:49Z",
+        "plan_id": 5428455,
+        "plan_quantity": 1,
+        "price": 33,
+        "revenue_per_unit": 19.89,
+        "is_optional": false
+      },
+      {
+        "id": 5428859,
+        "offered_service": {
+          "id": 5428840,
+          "short_description": "5-in-1 DAP/Parvo Vaccine"
+        },
+        "plan": {
+          "id": 5428455,
+          "short_description": "Puppy Wellness Plan"
+        },
+        "cost": null,
+        "created_at": "2019-02-01T16:57:20Z",
+        "discount_percent": 50,
+        "discounted_price": 16.5,
+        "sort_order": 20,
+        "code": null,
+        "updated_at": "2019-12-22T18:42:49Z",
+        "plan_id": 5428455,
+        "plan_quantity": 3,
+        "price": 33,
+        "revenue_per_unit": 19.89,
+        "is_optional": false
+      },
+      {
+        "id": 5441005,
+        "offered_service": {
+          "id": 5428831,
+          "short_description": "3-in-1 FVRCP Vaccine"
+        },
+        "plan": {
+          "id": 5428455,
+          "short_description": "Puppy Wellness Plan"
+        },
+        "cost": null,
+        "created_at": "2019-02-05T22:21:28Z",
+        "discount_percent": 25,
+        "discounted_price": 16.5,
+        "sort_order": 90,
+        "code": null,
+        "updated_at": "2019-12-22T18:42:49Z",
+        "plan_id": 5428455,
+        "plan_quantity": 1,
+        "price": 33,
+        "revenue_per_unit": 19.89,
+        "is_optional": true
+      }
+    ],
+    "recurring_plan_payment_total": 21.95,
+    "short_description": "Puppy Wellness Plan",
+    "species_id": "aa49c6a9-a4e8-4a19-bea0-059739291646"
+  }
+}
