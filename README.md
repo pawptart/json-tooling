@@ -3,4 +3,6 @@ This repo is a collection of tools that have proven helpful for working with com
 
 Load the desired payload into a file `payload.rb` or `payload.json` depending on the tool, and then you can run each with `ruby main.rb` from within the tool directory.
 
-Tools were originally hosted on [repl.it](https://repl.it/@pawptart) and can be run there as well.
+Tools were originally hosted on [repl.it](https://repl.it/@pawptart) and can be run there as well. 
+
+[![Run on Repl.it](https://repl.it/badge/github/pawptart/json-tooling)](https://repl.it/github/pawptart/json-tooling)
