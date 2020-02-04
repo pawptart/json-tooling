@@ -35,7 +35,7 @@ class PayloadHelper
     bool = @fields.keys.map do |key|
       @fields[key].uniq.size == 1
     end
-    !bool.any?(false)
+    bool.all?(true)
   end
 
   def discrepancies
@@ -112,6 +112,6 @@ end
 payload = File.read('payload.rb')
 ph = PayloadHelper.new(payload)
 ph.message
-return unless ph.unique_output?
+return if ph.unique_output?
 print_stars
 ph.strip_duplicates
